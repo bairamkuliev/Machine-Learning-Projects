@@ -7,6 +7,14 @@
 <p>1.5 Cleaning and merging scraped data with pandas.</p>
 <p>1.6 Scraping data for multiple season and teams.</p>
 <p>1.7 Final match results dataframe.</p>
+<h3>2.Prediction of Football Match Winners With ML.</h3>
+<p>2.1 Reading match data into pandas dataframe.</p>
+<p>2.2 Investing missing data.</p>
+<p>2.3 Cleaning data for ML.</p>
+<p>2.4 Creating predictors for ML.</p>
+<p>2.5 Creating ML model.</p>
+<p>2.6 Improving precision with rolling averages.</p>
+<p>2.7 Retraining ML model.</p>
 
 ## Data
 
