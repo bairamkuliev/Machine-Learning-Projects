@@ -1,3 +1,5 @@
+In this project, I'll predict the winner of football matches in the Turkish Super League.
+
 ##  Project stages:
 <h3>1.Data is collected through scraping a website.</h3>
 <p>1.1 Scraping first page with requests.</p>
